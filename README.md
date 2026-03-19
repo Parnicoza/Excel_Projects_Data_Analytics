@@ -12,9 +12,11 @@ An interactive data science salary dashboard that allows users to explore salari
 ---
 
 ### 📁 Project 2 - Salary Analysis
-A data analysis project focused on identifying trends and insights from salary data.
+A data analysis project exploring the relationship between skills and salaries in data-related roles. The analysis highlights how higher-demand roles and skills correlate with higher pay, and identifies the most in-demand technical skills such as SQL, Python, and cloud technologies based on job postings.  
 
-![Salary Analysis](./Project_2-Analysis/1_Project_Analysis.xlsx)
+<img width="874" height="537" alt="2_Project_Analysis_Chart1" src="https://github.com/user-attachments/assets/2c28e6e6-2494-4105-9e9b-03ba94895f45" />  
+
+<img width="759" height="513" alt="2_Project_Analysis_Chart3" src="https://github.com/user-attachments/assets/9c604693-7cf0-4a01-b8f0-ad78dd2ebb95" />
 
 👉 [View Project 2](./Project_2-Analysis)
 
