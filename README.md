@@ -3,7 +3,8 @@
 This repository contains my Excel projects built while following Luke Barousse’s Data Analytics course, where I applied the concepts through hands-on practice.
 
 ### 📁 Project 1 - Salary Dashboard
-An interactive data science salary dashboard that allows users to explore salaries by job title, country, and employment type. It includes dynamic filters, a world map visualization, and key metrics such as median salary, job count, and top hiring platforms.  
+An interactive data science salary dashboard that allows users to explore salaries by job title, country, and employment type. It includes dynamic filters, a world map visualization, and key metrics such as median salary, job count, and top hiring platforms.   
+
 ![1_Salary_Dashboard_Final_Dashboard](https://github.com/user-attachments/assets/16179770-4e69-486c-b331-f81dd3288f70)
 
 👉 [View Project 1](./Project_1-Dashboard)
