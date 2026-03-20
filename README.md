@@ -34,5 +34,4 @@ A data analysis project exploring the relationship between skills and salaries i
 
 ## 📌 About
 
-This project is based on Luke Barousse’s course, with my own work and practice applied throughout the projects.
-s course, with my own work and practice applied throughout the projects.
+This project is based on Luke Barousse's Data Analytics course. All projects were built independently as hands-on practice, applying the concepts taught throughout the course.
